@@ -11,7 +11,10 @@ export default function Header() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                Aqui vai o texto
+                Rhaenyra Targaryen foi a filha mais velha do Rei Viserys I. 
+                Ela disputou o Trono de Ferro com seu meio-irmão mais novo, Aegon II, numa guerra civil que ficou 
+                conhecida como Dança dos Dragões. Foi casada duas vezes e mãe de cinco filhos, entres os quais Aegon 
+                e Viserys, sendo que ambos se tornaram reis após sua morte.
                 </p>
             </div>
 

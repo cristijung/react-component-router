@@ -8,7 +8,7 @@ function AppRoutes() {
     return(
         <>
             <BrowserRouter>
-                <Menu/>
+                
                 <Routes>
                     <Route path="/" element={<Inicio />} />
                     <Route path="/SobreMim" element={<sobreMim />} />
