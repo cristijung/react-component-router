@@ -1,12 +1,12 @@
-
+import Header from "components/Header";
+import Menu from "components/Menu";
 
 function App() {
   return (
    <>
-    <h1>Olá mundo!</h1>
-    <h2>React</h2>
-    <hr></hr>
-    <a href="#">Link Menu</a>
+   <Menu/>
+   <Header/>
+    
   </> 
   );
 }
