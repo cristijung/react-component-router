@@ -1,5 +1,5 @@
 
-function sobreMim () {
+function SobreMim () {
     return(
         <>
             <h2>Sobre Mim</h2>
@@ -7,4 +7,4 @@ function sobreMim () {
     )
 };
 
-export default sobreMim;
+export default SobreMim;

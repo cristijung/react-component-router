@@ -1,5 +1,4 @@
-
-import { Link, useLocation } from "react-router-dom";
+import { Link, useLocation } from 'react-router-dom';
 import styles from './MenuLink.module.scss';
 
 export default function MenuLink({children, to}) {
